@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/into-the-unknown/static/css/main.5f361e03.chunk.css",
+    "main.js": "/into-the-unknown/static/js/main.c6a21dfb.chunk.js",
+    "main.js.map": "/into-the-unknown/static/js/main.c6a21dfb.chunk.js.map",
+    "runtime-main.js": "/into-the-unknown/static/js/runtime-main.e087d42e.js",
+    "runtime-main.js.map": "/into-the-unknown/static/js/runtime-main.e087d42e.js.map",
+    "static/js/2.5059d7c9.chunk.js": "/into-the-unknown/static/js/2.5059d7c9.chunk.js",
+    "static/js/2.5059d7c9.chunk.js.map": "/into-the-unknown/static/js/2.5059d7c9.chunk.js.map",
+    "index.html": "/into-the-unknown/index.html",
+    "precache-manifest.d54c11a1437789d1c14a2947a89eefa6.js": "/into-the-unknown/precache-manifest.d54c11a1437789d1c14a2947a89eefa6.js",
+    "service-worker.js": "/into-the-unknown/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/into-the-unknown/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5059d7c9.chunk.js.LICENSE.txt": "/into-the-unknown/static/js/2.5059d7c9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/into-the-unknown/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e087d42e.js",
+    "static/js/2.5059d7c9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c6a21dfb.chunk.js"
+  ]
+}
